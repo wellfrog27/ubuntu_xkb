@@ -4,6 +4,8 @@ You can copy my file and replace yours in xkb dir.
 Mainly I change the us, pc and altwin file in xkb.
 
 MAPPING:
-alt_R mapped control
-caps mapped Mode_switch
-Mode_switch+h,j,k,l mapped Left,Down,Up,Right
+
+1.alt_R mapped control
+2.caps mapped Mode_switch
+3.Mode_switch+h,j,k,l mapped Left,Down,Up,Right
+4.
