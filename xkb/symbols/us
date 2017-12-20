@@ -22,7 +22,7 @@ xkb_symbols "basic" {
     key <AD03> {	[	  e,	E		],[numbersign]	};
     key <AD04> {	[	  r,	R		]	};
     key <AD05> {	[	  t,	T		]	};
-    key <AD06> {	[	  y,	Y		]	};
+    key <AD06> {	[	  y,	Y		],[asciitilde]	};
     key <AD07> {	[	  u,	U		],[Home]	};
     key <AD08> {	[	  i,	I		],[Escape]	};
     key <AD09> {	[	  o,	O		],[End]	};
@@ -47,7 +47,7 @@ xkb_symbols "basic" {
     key <AB03> {	[	  c,	C		]	};
     key <AB04> {	[	  v,	V		]	};
     key <AB05> {	[	  b,	B		]	};
-    key <AB06> {	[	  n,	N		],[asciitilde]	};
+    key <AB06> {	[	  n,	N		],[slash]	};
     key <AB07> {	[	  m,	M		],[Return]	};
     key <AB08> {	[     comma,	less		],[less]	};
     key <AB09> {	[    period,	greater		],[greater]	};
