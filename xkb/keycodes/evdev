@@ -39,7 +39,8 @@ default xkb_keycodes "evdev" {
 	alias <AC12> = <BKSL>;
 	<RTRN> = 36;
 
-	<CAPS> = 66;
+	// <CAPS> = 66;
+	<LVL3> = 66;
 	<AC01> = 38;
 	<AC02> = 39;
 	<AC03> = 40;
@@ -68,8 +69,10 @@ default xkb_keycodes "evdev" {
 	<LALT> = 64;
 	<LCTL> = 37;
 	<SPCE> = 65;
-	<RCTL> = 105;
-	<RALT> = 108;
+	//<RCTL> = 105;
+	<RCTL> = 108;
+	//<RALT> = 108;
+	<CAPS> = 105;
 	// Microsoft keyboard extra keys
 	<LWIN> = 133;
 	<RWIN> = 134;
@@ -283,7 +286,7 @@ default xkb_keycodes "evdev" {
 	<I253> = 253;	// #define KEY_DISPLAY_OFF         245
 
 	// Fake keycodes for virtual keys
-	<LVL3> =   92;
+	// <LVL3> =   92;
 	<MDSW> =   203;
 	<ALT>  =   204;
 	<META> =   205;

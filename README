@@ -1,7 +1,7 @@
 This is a backup for my xkb files.
 My system is Ubuntu 16.04.
 You can copy my file and replace yours in xkb dir.
-Mainly I change the us, pc and altwin file in xkb.
+Mainly I change the us, pc and evdev in xkb.
 
 MAPPING:
 
